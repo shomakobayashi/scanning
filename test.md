@@ -1,4 +1,4 @@
 # credential　test
 
-AccessKeyId:`1234567890123456789012`  
-SecretAccessKey:`123456789012345667899012`
+AccessKeyId:`ACESDFGHIJKLMN1OPQR`  
+SecretAccessKey:`qweRtyuioPaSdFgHjklZxcVbnmEXAMPLEKEY`
